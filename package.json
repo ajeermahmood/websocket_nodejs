@@ -1,0 +1,19 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "websocket"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1",
+    "ws": "^7.5.2"
+  }
+}
